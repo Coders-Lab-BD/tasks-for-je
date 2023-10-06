@@ -2,7 +2,7 @@
 
 **TASKS:**
 
-1 Filter the array:
+1 - Filter the array:
 
 In this repository, theres a file named **data.php**. You will find an array '$data', from which you need to do the following:
 
@@ -11,7 +11,7 @@ In this repository, theres a file named **data.php**. You will find an array '$d
 - Keep the data which has the "status" of "paid"
 - return the filtered array.
 
-1 - Fetch data and insert into DB:
+2 - Fetch data and insert into DB:
 
 Here are three REST Api's:
 - [Users](https://jsonplaceholder.typicode.com/users)
@@ -20,7 +20,7 @@ Here are three REST Api's:
 
 You have to fetch data from those to links and **insert** those data into the database. **You may need multiple Models, Migrations and define the relations for this task**. We would advise to properly check the data and then to design the database wisely.
 
-1 - Read data from CSV and insert into DB:
+3 - Read data from CSV and insert into DB:
 
 In this repository, theres a file named **users_100_000.csv**. Here you will find 100,000 data of some users. You have to do the following:
 - Create Model/Migration for inserting the data.
